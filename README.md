@@ -17,3 +17,12 @@ console.log(dairy[1]);
 For (var i=0; i<100; i=i+15){
 console.log(i)}
 ```
+6) Correct the five errors: or to put it another way, there are five changes to make this work.  Your intention is to create a program that prints an asterisk in the Javascript console as many times as dictated by the random number selected in the first line:
+```
+var x=Math.rug(Math.random()*100);
+
+for var i=0; i>x; x)
+  console.log('*');
+}
+```
+
