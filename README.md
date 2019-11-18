@@ -6,16 +6,14 @@
 
 3)	Explain why a function is necessary if you are collecting data from a form.  (Note: functions have many uses, but this is one that we discussed/used in class.) [10 points]
 
-4)	Given the following two lines of code:
+4)	Given the following two lines of code, what would be printed in the Javascript console? [10 points]
 ```
 var dairy = ['provolone','yogurt','milk','brie'];
 console.log(dairy[1]);
 ```
-What would be printed in the Javascript console? [10 points]
 
-5)	Given the following two lines of code:
+5)	Given the following two lines of code, what numbers would be printed in the Javascript console? [10 points]
 ```
 For (var i=0; i<100; i=i+15){
 console.log(i)}
 ```
-What numbers would be printed in the Javascript console? [10 points]
