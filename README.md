@@ -2,7 +2,7 @@
 
 1)	What is the purpose of JavaScript in web development? [5 points]
 
-2)	Explain how the if/then statement works?  What is its purpose? [10 points]
+2)	Explain how an if/then statement works?  What is its purpose? [10 points]
 
 3)	Explain why a function is necessary if you are collecting data from a form.  (Note: functions have many uses, but this is one that we discussed/used in class.) [10 points]
 
