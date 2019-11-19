@@ -33,6 +33,6 @@ for var i=0; i>x; x)
 -|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|
 ```
 
-You will receive zero points if you only submit an HTML page with the above characters.  If you use Javascript to create the above characters in one string (x= "-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|"), you will receive seven points.  If you use Javascript to create the above characters with no single string in the code having more than one character, you will receive the full 15 points.  (In other words, only use ' ' or '-' or '|').  The vertical line is created with the key above the return key (and by pressing shift).
+You will receive zero points if you only submit an HTML page with the above characters.  If you use Javascript to create the above characters in one string (x= "-|-----|-----|-----|-----|-----|-----|-----|-----|-----|-----|"), you will receive seven points.  If you use Javascript to create the above characters with no single string in the code having more than one character, you will receive the full 15 points.  (In other words, only use ' ' or '-' or '|').  (By the way, the vertical line is created with the key above the return key (and by pressing shift).)
 
 # When finished, submit on Blackboard.
