@@ -1,4 +1,4 @@
-# Answer the following five questions in a Microsoft Word document.  For all question, you may use all resources (e.g., notes, books, online websites available to you--and any program.)  However, you may not speak with other students, friends, etc..
+# Answer the following five questions in a Microsoft Word document.  For all questions, you may use all resources (e.g., notes, books, online websites available to you--and any program.)  However, you may not speak with other students, friends, etc..
 
 1)	What is the purpose of JavaScript in web development? [5 points]
 
